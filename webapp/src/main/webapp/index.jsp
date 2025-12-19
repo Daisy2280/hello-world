@@ -30,6 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+   <h2 style="color:green;">This page was updated successfully using CI/CD 🚀</h2>
 
    <h1> Thankyou, Happy Learning </h1>
 
