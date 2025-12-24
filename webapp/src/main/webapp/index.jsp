@@ -30,10 +30,12 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h2 style="color:green;">This page was updated successfully using CI/CD </h2
+  <h2 style="color:green;">This page was updated successfully using CI/CD </h2>
    <h2 style="color:blue;">CI/CD Update Test: Build Triggered automatically and Successfully </h2>
+   <h3 style="color:red;">Code Updated Automatically using Jenkins CI/CD!</h3>
+
 
    <h1> Thankyou, Happy Learning </h1>
-
+ 
   
 </form>
